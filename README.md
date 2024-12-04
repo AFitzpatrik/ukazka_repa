@@ -1,10 +1,11 @@
-# ukazka_repa
-Druhá hodina python
+# Zkouska_repository
+Druhá hodina pythonu / GITHUB / REPO
 
 
-## Toto je nadpis druhé úrovně
-### Toto je nadpis třetí úrovně
-normální text
+## 4.12.2024
+### GitHub
+
+Bla bla 
 
 - položka 1
 - položka 2
