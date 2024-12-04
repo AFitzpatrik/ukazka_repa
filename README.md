@@ -7,6 +7,12 @@ Druhá hodina pythonu / GITHUB / REPO
 
 Bla bla 
 
-- položka 1
-- položka 2
-- položka 3
+- **tučné** 
+- *italic* 
+- ~~Chyba~~	
+
+>Citatce textu  '>'  tímto znakem
+
+
+
+
